@@ -23,15 +23,7 @@ This interactive map simulation takes you through **1945–1980**, year by year,
 
 ---
 
-## 📸 Visual Preview
 
-### European Control Before WWII
-![Colonial Africa 1914](https://upload.wikimedia.org/wikipedia/commons/5/51/Colonial_Africa_1913_map.png)  
-
-### Independence Wave After WWII
-![Decolonization](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Africa_decolonization_1950-1977.svg/800px-Africa_decolonization_1950-1977.svg.png)  
-
----
 
 ## ✨ Features
 
@@ -39,7 +31,7 @@ This interactive map simulation takes you through **1945–1980**, year by year,
 - 🎨 **Color-coded map**:  
   - Each colonial empire = a unique color  
   - When independence is achieved, the country turns **white**  
-- 📖 **Annotations**: Short notes about each country’s independence struggle  
+- 📖 **Annotations**: Short description about each country’s independence struggle  
 
 ---
 
