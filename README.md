@@ -31,7 +31,7 @@ This interactive map simulation takes you through **1945–1980**, year by year,
 - 🎨 **Color-coded map**:  
   - Each colonial empire = a unique color  
   - When independence is achieved, the country turns **white**  
-- 📖 **Annotations**: Short description about each country’s independence struggle  
+- 📖 **Side Panel Feature**: Side panel showing a short description about each country’s independence struggle 
 
 ---
 
