@@ -1,46 +1,57 @@
-# Getting Started with Create React App
+# 🌍 African Decolonization Timeline (1945–1980)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Africa was one of the most heavily colonized continents in world history.  
+During the **Scramble for Africa (1870–1914)**, European powers seized control of nearly the entire continent.  
 
-## Available Scripts
+- By **1870**, only **10%** of Africa was under European control.  
+- By **1914**, that number had skyrocketed to **90%**.  
 
-In the project directory, you can run:
+After **World War II**, everything changed. Colonies that had supplied soldiers and resources for the deadliest war in history began to demand freedom. The war was fought in the name of **human rights and self-determination**, and African colonial subjects expected those same rights for themselves.
 
-### `npm start`
+> ✊ Many independence movements were peaceful, achieved through **negotiation and diplomacy**.  
+> 🔥 Others turned violent, as some European powers fiercely resisted losing their **“prized possessions.”**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 🗺️ Explore the Map
 
-### `npm test`
+This interactive map simulation takes you through **1945–1980**, year by year, showing:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+✅ **Which African countries gained independence**  
+✅ **The year they became independent**  
+✅ **Whether independence came peacefully or through violent struggle**  
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📸 Visual Preview
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### European Control Before WWII
+![Colonial Africa 1914](https://upload.wikimedia.org/wikipedia/commons/5/51/Colonial_Africa_1913_map.png)  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Independence Wave After WWII
+![Decolonization](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Africa_decolonization_1950-1977.svg/800px-Africa_decolonization_1950-1977.svg.png)  
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## ✨ Features
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- 🕹️ **Interactive timeline (1945–1980)**  
+- 🎨 **Color-coded map**:  
+  - Each colonial empire = a unique color  
+  - When independence is achieved, the country turns **white**  
+- 📖 **Annotations**: Short notes about each country’s independence struggle  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+---
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 🚀 Run Locally
 
-## Learn More
+```bash
+# Clone repo
+git clone https://github.com/your-username/africa-decolonization-map.git
+cd africa-decolonization-map
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Install dependencies
+npm install
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Start development server
+npm start
