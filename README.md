@@ -32,7 +32,7 @@ This interactive map simulation takes you through **1945–1980**, year by year,
   - Each colonial empire = a unique color  
   - When independence is achieved, the country turns **white**  
 - 📖 **Side Panel Feature**: Side panel showing a short description about each country’s independence struggle
--  **Major Decolonization Events Separate Website**: Also attached a separate website explaining key decolonization events included on the map simulator, outside of just Africa.
+-  **Major Decolonization Events Separate Website**: Also attached a separate website explaining key decolonization events included on the map simulator, outside of just Africa Titled "Major Decolonization Events Website" that can be accessed on https://indigo-rivalee-24.tiiny.site/.
 
 ---
 
