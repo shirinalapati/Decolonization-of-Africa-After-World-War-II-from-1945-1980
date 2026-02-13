@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Decolonization in the 20th Century</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+            padding: 10px 0;
+        }
+        nav button {
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 15px 20px;
+            margin: 0 10px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+        }
+        nav button:hover {
+            background-color: #45a049;
+        }
+        .content {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            margin: 15px 0;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Decolonization in the 20th Century</h1>
+    </header>
+    <nav>
+        <button onclick="showContent('india')">India</button>
+        <button onclick="showContent('ghana')">Ghana</button>
+        <button onclick="showContent('algeria')">Algeria</button>
+        <button onclick="showContent('angola')">Angola</button>
+        <button onclick="showContent('frenchafrica')">French West Africa</button>
+    </nav>
+    <div class="content" id="content">
+        <h2>Welcome</h2>
+Decolonization is the process by which former colonies achieve independence and break away from their colonial powers. In other words, it is the undoing of colonialism as instead of being subject to a higher foreign authority that controls their land, a state becomes independent. This process especially took place in the 20th century rapidly after World War II. This is because due to the damages of the war, strong imperial European states no longer had the military and infrastructure to hold firm control over their colonies. 
+Another reason for the occurrence of this movement was because many colonial subjects fought in both world wars for their colony. Many did this expecting that they would be rewarded with independence after the war was over. Additionally, there was a greater emphasis on democracy around the world after the Allies prevailed over the brutal Axis powers of Germany, Italy, and Japan, who were known for numerous war crimes and executing horrific actions, such as the Holocaust. Consequently, there was a higher motive towards giving colonies independence and allowing them to have their own natural rights. 
+However, this didn’t mean that decolonization was always a peaceful process done through negotiations as while European powers gave independence to some of their colonies, there was also violence during decolonization. This is because as seen on this site, you will learn that in places where there was a large European settler population, colonial powers were unwilling to give up their colonies. Please click on a country to learn more about its decolonization process.
+        <p></p>
+<img src="data:image/jpeg;base64,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
+">
+<img src="https://quatr.us/wp-content/uploads/2017/07/indiannationalcongress1885.jpg
+">
+<img src="https://education.cfr.org/sites/default/files/styles/fluid_1200/public/images/photo/2021/04/Algerian_War-cropped.jpg.webp?itok=0eu8-zzQ
+">
+
+    </div>
+
+    <script>
+        const content = {
+            india: `
+                <h2>Decolonization of India</h2>
+The Indian Independence Movement is largely known today due to how influential it was. The movement spread rapidly when Mahatma Gandhi became the leader of the Indian National Congress in 1921, after protesting brutal laws against Indians while practicing as a lawyer in South Africa. The movement was centralized around the idea of civil disobedience, where individuals would peacefully protest the oppressive laws they suffered from the British Empire. While most Indians volunteered to fight in the name of Britain in World War I, there were also instances of coercion used to get Indians to fight. Many did this thinking they would be given greater self-rule after the war was over, but they unfortunately didn’t receive this. As a result, the independence movement continued with major nonviolent events like the Salt March in 1930. When World War II broke out, Indians were forced to fight again and after the war concluded, it was a different result for India. They finally received their independence in 1947, but…
+	In 1906, the All-India Muslim League was formed with the desire of creating a new state on the Indian subcontinent specifically for Muslims. This was a result of the widespread divide-and-conquer strategy employed by the British in India throughout their time as its colonizer, in order to solidify their authority over the subcontinent. So, with a big difference between Muslims and Hindus in India, there was support by some Indians and many British people to partition the state. In the end, the state of Pakistan was created, receiving independence on the same day that India received its independence. As a result, many Hindus living in Pakistan migrated to India and many Muslims living in India migrated to Pakistan, but in the process, lots of violence was seen. So, while India peacefully separated from Britain, due to the long-held policies held in place by the British Empire, there was still violence when the states of India and Pakistan became independent.
+                <p></p>
+                <img src="https://scholarblogs.emory.edu/postcolonialstudies/files/2014/06/Partition_of_India-en.svg_-1.png">
+                <img src="https://cdn.britannica.com/91/82291-050-EB7A276A/Mohandas-K-Gandhi-leader-Mahatma-Indian.jpg">
+            `,
+            ghana: `
+                <h2>Decolonization of Ghana</h2>
+In West Africa, named as the Gold Coast, Ghana was given this name when it was a British colony from 1821 until it received independence in 1957. Vast amounts of gold were found here, hence its name. The British exploited the economy of the native Ghanaians to obtain the raw materials of ivory, pepper, and cocoa, before building lots of infrastructure, such as railways, to export these raw materials back to Britain. Over time, natives in this colony refused to comply with British laws and began boycotting British goods. 
+	The independence movement was led by Kwame Nkrumah, a Western-educated man who studied at the London School of Economics. He ended up forming an independence party based on the principles of socialism in the Gold Coast colony called the Convention People’s Party. Nkrumah preached unity among Africans not just in the Gold Coast, but also all throughout Africa. Eventually, his leadership proved to be tremendously successful as Ghana ended up becoming a free state mostly through peace.
+	Similar to Gandhi, Nkrumah's strategy involved mass mobilization and civil disobedience, which drew widespread support from various segments of Ghanaian society. His charismatic leadership and persistent advocacy for self-governance culminated in the British agreeing to grant Ghana independence. On March 6, 1957, Ghana became the first sub-Saharan African country to break free from colonial rule, setting a precedent for other African nations. Nkrumah became the first Prime Minister and later the first President of Ghana, beginning a new era of African self-determination and inspiring liberation movements across the continent.
+                <p></p>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg">
+                <img src="
+                https://www.blackpast.org/wp-content/uploads/prodimages/files/Kwame_Nkrumah.jpg
+... (37 lines left)
